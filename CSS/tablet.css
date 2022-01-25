@@ -1,0 +1,161 @@
+.header-name {
+    font-size: 2rem;
+    font-weight:  inherit;
+    margin: 50px 0 0 50px;
+}
+.header-icon-menu img{
+    width: 28px;
+    height: 28px;
+    margin: 50px 50px;
+}
+
+.main-article-title {
+    min-width: 530px;
+    max-width: 530px;
+    font-size: 4rem;
+    font-weight: 400;
+    margin: 70px 0 0 50px;
+}
+.main-article-description {
+    min-width: 500px;
+    max-width: 530px;
+    font-size: 1.4rem;
+    margin: 10px 0 0 50px;
+}
+
+.main-marcs {
+    display: grid;
+    justify-content: start;
+    grid-template-columns: repeat(3, 180px);
+    grid-template-rows: repeat(2, 30px);
+    width: 100%;
+    min-width: 500px;
+    max-width: 530px;
+    height: 150px;
+    margin-top: 50px;
+    gap: 20px;
+}
+.main-marc-walmart {
+    justify-self: end;
+    width: 9rem;
+}
+.main-marc-Morgan {
+    justify-self: center;
+    width: 9rem;
+}
+.main-marc-visa {
+    justify-self: start;
+    width: 7rem;
+}
+.main-marc-tinder {
+    justify-self: center;
+    width: 8rem;
+}
+.main-marc-samsung {
+    justify-self: center;
+    width: 12rem;
+}
+.main-marc-verizon {
+    justify-self: start;
+    width: 9rem;
+}
+
+.main-spense {
+    height: 435px;
+}
+
+.main-figure-spense {
+    position: relative;
+    justify-self: start;
+    align-self: flex-start;
+    width: 83%;
+    min-width: 500px;
+    max-width: 530px;
+    height: 300px;
+    margin: 5px 40px 0 50px;
+}
+
+.main-spense-title {
+    min-width: 500px;
+    max-width: 530px;
+    margin: 20px 0 0 50px;
+}
+.main-spense-text {
+    font-size: 1.4rem;
+    margin: 0 50px;
+    min-width: 500px;
+    max-width: 530px;
+}
+
+.main-figure-yelpcamp {
+    position: relative;
+    justify-self: start;
+    align-self: flex-start;
+    width: 83%;
+    min-width: 500px;
+    max-width: 530px;
+    height: 300px;
+    margin: 5px 40px 0 50px;
+}
+
+.main-yelpcamp {
+    width: 100%;
+    height: 435px;
+}
+.main-yelpcamp-description {
+    min-width: 500px;
+    max-width: 530px;
+    margin: 10px 0 10px 20px;
+}
+.main-yelpcamp-text {
+    min-width: 500px;
+    max-width: 530px;
+    height: 74px;
+}
+.main-cofunder-one {
+    min-width: 600px;
+    max-width: 530px;
+    height: 255px;
+}
+.main-cofunder-title {
+    margin: 20px 40px 10px 50px;
+    min-width: 500px;
+    max-width: 530px;
+}
+.main-cofunder-one p {
+    font-size: 1.4rem;
+    height: 60px;
+    margin: 0 50px;
+    min-width: 500px;
+    max-width: 530px;
+}
+
+.main-cofunder-two {
+    position: relative;;
+    min-width: 600px;
+    max-width: 530px;
+    height: 255px;
+}
+.main-cofunder-two p {
+    font-size: 1.4rem;
+    height: 30px;
+    margin: 10px 50px;
+    min-width: 500px;
+    max-width: 530px;
+}
+
+.main-interested-title {
+    min-width: 500px;
+    max-width: 530px;
+    margin: 30px 40px 10px 50px;
+}
+.main-interested-description {
+    font-size: 1.4rem;
+    height: 50px;
+    margin: 0 50px;
+    min-width: 500px;
+    max-width: 530px;
+}
+.main-button {
+    margin: 0 50px;
+}
